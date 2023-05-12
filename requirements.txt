@@ -1,0 +1,4 @@
+pandas
+boto3
+pendulum
+apache-airflow-providers-amazon
